@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """https://contest.yandex.ru/contest/45468/problems/18/"""
 
+
 # pylint: disable=invalid-name
 # pylint: disable=redefined-outer-name
 # pylint: disable=duplicate-code

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """https://contest.yandex.ru/contest/45468/problems/19/"""
 
+
 # https://docs.python.org/3/library/heapq.html
 # https://github.com/python/cpython/blob/3.11/Lib/heapq.py
 

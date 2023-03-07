@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """https://contest.yandex.ru/contest/45468/problems/17/"""
 
+
 # https://en.wikipedia.org/wiki/War_(card_game)
 
 # pylint: disable=invalid-name
