@@ -9,7 +9,7 @@
 from typing import List, Sequence
 
 
-def is_correct_delimeters(
+def are_correct_delimeters(
     lefty: Sequence,
     righty: Sequence,
 ) -> bool:
@@ -54,13 +54,13 @@ def is_correct_sequence(
     ------
     ValueError
         If delimeters are not correct sequences.
-        See `is_correct_delimeters` function.
+        See `are_correct_delimeters` function.
 
     Returns
     -------
     bool
     """
-    if not is_correct_delimeters(lefty, righty):
+    if not are_correct_delimeters(lefty, righty):
         raise ValueError("bad delimeters")
     stack: List[str] = []
     for item in seq:
