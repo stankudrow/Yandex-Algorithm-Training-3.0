@@ -1,6 +1,6 @@
 # Yandex-Algorithm-Training-3.0
 
-The solutions to the problems the third wave of the Yandex Algorithm Training course.
+The solutions to the problems from the third wave of the Yandex Algorithm Training course.
 
 ## Plan
 
